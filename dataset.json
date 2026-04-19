@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant dataset for the Greater Los Angeles metro region including Long Beach and Anaheim. This export captures the sprawling Southern California dining scene filtered by the Restaurants category group. Features business profiles, review analytics, competitive metrics, and contact details across all neighborhoods. Refreshed weekly.",
   "config_name": "All Restaurants in Greater Los Angeles Area (Metro), California, US",
-  "export_job_id": "d9f73e19-e798-4a1a-9c39-1bc191313c38",
+  "export_job_id": "62458ff2-9afc-4ac9-a2ba-55cf543d09e2",
   "github_org": "Beamstation-Datasets",
   "id_short": 123920,
   "location_name": "Los Angeles-Long Beach-Anaheim, CA",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-greater-los-angeles-area-metro-california-us-sample-123920",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/123920/beamstation_123920_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
-  "sample_pct": 2.84,
+  "sample_pct": 2.88,
   "sample_records": 1000,
-  "sample_sha256": "76ca8aa12e36d3ef0e91573e60e7dca97bae3d7bd38b3e6a6092e1611c952c64",
-  "sample_size_bytes": 3227197,
-  "total_records": 35170,
-  "updated_at": "2026-04-09T11:15:43.050994+00:00"
+  "sample_sha256": "9776b19b3ce0ed20e76453abfe3f19409efe7cd2874858cc5f4768a7fe91bb6d",
+  "sample_size_bytes": 3226087,
+  "total_records": 34717,
+  "updated_at": "2026-04-16T11:27:01.497185+00:00"
 }
