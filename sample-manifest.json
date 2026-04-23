@@ -1,12 +1,12 @@
 {
-  "export_job_id": "62458ff2-9afc-4ac9-a2ba-55cf543d09e2",
+  "export_job_id": "c574e192-953d-4d16-a219-132847adde11",
   "id_short": 123920,
-  "published_at": "2026-04-19T19:26:03Z",
+  "published_at": "2026-04-23T19:29:55Z",
   "repo_name": "all-restaurants-in-greater-los-angeles-area-metro-california-us-sample-123920",
   "sample_asset_name": "beamstation_123920_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/123920/beamstation_123920_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "9776b19b3ce0ed20e76453abfe3f19409efe7cd2874858cc5f4768a7fe91bb6d",
-  "sample_size_bytes": 3226087,
-  "total_records": 34717
+  "sample_sha256": "a3c3411c7d59d8a1b94f2e3900fc6052a8f07c69370f4b239361971e54b8ec05",
+  "sample_size_bytes": 3281820,
+  "total_records": 33301
 }
